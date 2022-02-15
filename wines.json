@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "Kim Crawford",
+        "type" : "Sauvignon Blanc",
+        "region" : "New Zealand",
+        "price" : "$"
+    },
+    {
+        "name" : "Meiomi",
+        "type" : "Pinot Noir",
+        "region" : "Napa Valley",
+        "price" : "$"
+    },
+    {
+        "name" : "Caymus",
+        "type" : "Cabernet-Sauvignon",
+        "region" : "California",
+        "price" : "$$$"
+    },
+    {
+        "name" : "Latour Pouilly Fuisse",
+        "type" : "Chardonnay",
+        "region" : "Burgundy",
+        "price" : "$"
+    }
+]
