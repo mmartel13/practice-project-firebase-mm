@@ -32,11 +32,11 @@ const winesRef = connectDb().collection("wines");
 
 //update something within the collection 
 
-winesRef.doc('ugsWB9wovedsd6SpTBc5')
-    .update({
-        name : "Kendall Jackson"
-    })
-    .then(console.log("updated wine"))
+// winesRef.doc('ugsWB9wovedsd6SpTBc5')
+//     .update({
+//         name : "Kendall Jackson"
+//     })
+//     .then(console.log("updated wine"))
     
 
 
